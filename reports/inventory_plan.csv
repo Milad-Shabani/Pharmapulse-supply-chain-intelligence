@@ -1,0 +1,589 @@
+product_id,generic_name,category,center_id,segment,week_start,daily_forecast_p50,daily_forecast_p95,reorder_point_units,order_up_to_units
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-03,BX,2025-01-06,111.0,157.9,789.0,1566.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-10,AX,2025-01-06,99.8,146.6,587.0,1285.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-14,BX,2025-01-06,80.4,137.0,548.0,1111.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-10,BX,2025-01-06,79.9,136.6,546.0,1106.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-01,AX,2025-01-06,110.2,181.8,545.0,1317.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-06,BX,2025-01-06,71.4,133.8,535.0,1035.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-13,CX,2025-01-06,58.0,87.0,522.0,928.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-02,BX,2025-01-06,73.3,129.6,518.0,1032.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-03,BX,2025-01-06,61.2,102.4,512.0,941.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-02,BX,2025-01-06,79.2,125.6,502.0,1056.0
+SKU-015,Metformin 500mg,Diabetes,DC-06,BX,2025-01-06,78.4,123.8,495.0,1044.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-08,BX,2025-01-06,53.5,81.6,490.0,864.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-03,BX,2025-01-06,57.5,96.2,481.0,884.0
+SKU-015,Metformin 500mg,Diabetes,DC-03,BX,2025-01-06,51.5,94.6,473.0,834.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-05,BX,2025-01-06,87.3,153.4,460.0,1071.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-08,BX,2025-01-06,53.2,76.0,456.0,829.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-09,BX,2025-01-06,88.1,150.8,453.0,1069.0
+SKU-015,Metformin 500mg,Diabetes,DC-14,BX,2025-01-06,70.9,112.6,451.0,947.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-08,CX,2025-01-06,50.5,74.9,449.0,803.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-11,BX,2025-01-06,64.3,112.1,448.0,898.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-06,AX,2025-01-06,63.4,111.6,446.0,890.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-05,BX,2025-01-06,80.3,146.4,439.0,1001.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-05,BX,2025-01-06,82.9,145.1,435.0,1015.0
+SKU-015,Metformin 500mg,Diabetes,DC-05,AX,2025-01-06,83.8,144.8,435.0,1021.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-02,BX,2025-01-06,66.7,108.5,434.0,901.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-12,BX,2025-01-06,46.9,71.8,431.0,759.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-01,AX,2025-01-06,85.8,143.4,430.0,1031.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-09,BX,2025-01-06,87.8,142.2,427.0,1041.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-02,AX,2025-01-06,64.0,106.7,427.0,875.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-14,BX,2025-01-06,55.8,105.8,423.0,814.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-03,BX,2025-01-06,51.6,84.6,423.0,785.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-12,CX,2025-01-06,44.7,70.5,423.0,736.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-08,BX,2025-01-06,48.5,69.9,419.0,759.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-10,BX,2025-01-06,61.4,103.3,413.0,843.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-03,AX,2025-01-06,50.2,82.4,412.0,763.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-14,BX,2025-01-06,62.4,102.7,411.0,848.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-12,BX,2025-01-06,47.4,68.3,410.0,741.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-02,BX,2025-01-06,58.7,101.4,405.0,817.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-01,AX,2025-01-06,72.9,133.8,401.0,911.0
+SKU-015,Metformin 500mg,Diabetes,DC-01,AX,2025-01-06,70.7,133.4,400.0,895.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-12,BX,2025-01-06,43.6,66.2,397.0,703.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-12,CX,2025-01-06,45.6,66.2,397.0,717.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-14,BX,2025-01-06,57.6,99.1,396.0,800.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-01,BX,2025-01-06,73.6,132.0,396.0,911.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-10,BX,2025-01-06,57.1,98.7,395.0,794.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-01,BX,2025-01-06,73.8,130.9,393.0,910.0
+SKU-015,Metformin 500mg,Diabetes,DC-12,BX,2025-01-06,41.6,65.4,392.0,683.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-01,BX,2025-01-06,65.8,129.6,389.0,849.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-13,BX,2025-01-06,52.1,64.7,388.0,752.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-02,BX,2025-01-06,60.1,96.5,386.0,807.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-07,CX,2025-01-06,46.4,77.2,386.0,711.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-05,AX,2025-01-06,71.4,127.5,382.0,882.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-03,BX,2025-01-06,46.4,75.3,376.0,701.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-13,CX,2025-01-06,44.9,62.6,376.0,690.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-08,BX,2025-01-06,47.2,62.3,374.0,704.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-14,BX,2025-01-06,52.6,92.2,369.0,737.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-01,AX,2025-01-06,75.4,123.2,369.0,898.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-04,BX,2025-01-06,54.8,90.6,362.0,746.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-03,AX,2025-01-06,45.7,72.1,360.0,680.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-06,BX,2025-01-06,56.4,90.1,360.0,755.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-07,BX,2025-01-06,46.0,71.8,359.0,682.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-06,BX,2025-01-06,51.6,89.5,358.0,719.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-07,BX,2025-01-06,49.5,71.4,357.0,703.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-06,BX,2025-01-06,55.9,88.9,356.0,747.0
+SKU-015,Metformin 500mg,Diabetes,DC-07,BX,2025-01-06,47.1,70.4,352.0,682.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-09,BX,2025-01-06,65.8,116.2,348.0,809.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-08,BX,2025-01-06,41.4,57.5,345.0,635.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-12,BX,2025-01-06,40.0,57.6,345.0,626.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-14,AX,2025-01-06,49.4,85.4,342.0,688.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-10,AX,2025-01-06,50.3,85.6,342.0,694.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-03,BX,2025-01-06,41.4,68.4,342.0,632.0
+SKU-015,Metformin 500mg,Diabetes,DC-10,BX,2025-01-06,54.5,84.4,338.0,719.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-06,BX,2025-01-06,54.1,84.6,338.0,717.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-01,AX,2025-01-06,62.5,112.3,337.0,774.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-10,BX,2025-01-06,51.2,84.2,337.0,695.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-02,AX,2025-01-06,49.2,84.1,336.0,681.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-03,BX,2025-01-06,46.2,66.9,334.0,658.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-07,BX,2025-01-06,42.0,66.6,333.0,627.0
+SKU-015,Metformin 500mg,Diabetes,DC-09,BX,2025-01-06,59.0,110.9,333.0,746.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-08,CX,2025-01-06,38.1,55.1,330.0,597.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-13,CX,2025-01-06,47.2,54.9,329.0,660.0
+SKU-015,Metformin 500mg,Diabetes,DC-11,BX,2025-01-06,50.5,81.8,327.0,681.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-04,BX,2025-01-06,49.2,81.3,325.0,670.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-11,AX,2025-01-06,50.5,81.0,324.0,678.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-12,BX,2025-01-06,39.6,53.5,321.0,598.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-07,BX,2025-01-06,40.2,63.3,317.0,598.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-08,BX,2025-01-06,37.9,52.6,315.0,581.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-02,BX,2025-01-06,49.3,78.6,315.0,660.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-10,BX,2025-01-06,49.9,78.7,315.0,664.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-05,AX,2025-01-06,59.8,104.3,313.0,731.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-14,AX,2025-01-06,47.2,78.0,312.0,642.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-03,AX,2025-01-06,43.3,62.5,312.0,615.0
+SKU-015,Metformin 500mg,Diabetes,DC-13,BX,2025-01-06,37.8,51.8,311.0,575.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-07,BX,2025-01-06,46.5,61.8,309.0,634.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-08,AX,2025-01-06,35.6,51.3,308.0,557.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-11,CX,2025-01-06,45.9,76.5,306.0,628.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-13,BX,2025-01-06,35.0,50.8,305.0,550.0
+SKU-004,Aspirin 100mg,Analgesics,DC-03,CX,2025-01-06,41.9,59.8,299.0,593.0
+SKU-015,Metformin 500mg,Diabetes,DC-08,BX,2025-01-06,36.1,49.3,296.0,549.0
+SKU-031,Multivitamin Tablets,Vitamins,DC-11,BX,2025-01-06,52.7,73.2,293.0,662.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-05,AX,2025-01-06,60.3,97.4,292.0,714.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-13,BX,2025-01-06,44.6,48.3,290.0,602.0
+SKU-015,Metformin 500mg,Diabetes,DC-02,BX,2025-01-06,49.5,72.2,289.0,635.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-10,BX,2025-01-06,45.2,71.3,285.0,601.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-12,BX,2025-01-06,36.4,47.4,285.0,540.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-10,BX,2025-01-06,44.2,70.6,283.0,592.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-07,AX,2025-01-06,42.6,56.5,282.0,580.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-08,BX,2025-01-06,32.7,46.9,282.0,510.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-04,BX,2025-01-06,49.8,70.4,281.0,630.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-06,BX,2025-01-06,43.2,69.9,280.0,582.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-13,CX,2025-01-06,29.1,46.5,279.0,483.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-12,BX,2025-01-06,41.3,45.8,275.0,563.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-13,BX,2025-01-06,30.9,45.6,274.0,490.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-06,AY,2025-01-06,40.1,68.4,274.0,555.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-11,BX,2025-01-06,45.6,68.6,274.0,593.0
+SKU-004,Aspirin 100mg,Analgesics,DC-02,CX,2025-01-06,47.6,68.5,274.0,607.0
+SKU-004,Aspirin 100mg,Analgesics,DC-07,CX,2025-01-06,42.0,54.6,273.0,567.0
+SKU-001,Paracetamol 500mg,Analgesics,DC-09,BX,2025-01-06,57.4,90.9,273.0,674.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-06,AX,2025-01-06,40.6,67.2,269.0,553.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-12,AX,2025-01-06,35.0,44.8,269.0,514.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-13,BX,2025-01-06,35.2,44.8,269.0,515.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-08,BX,2025-01-06,34.8,44.6,268.0,511.0
+SKU-029,Vitamin D3 1000IU,Vitamins,DC-11,BX,2025-01-06,48.5,66.9,268.0,607.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-02,AX,2025-01-06,43.7,66.9,267.0,573.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-14,BX,2025-01-06,44.1,66.5,266.0,575.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-09,BX,2025-01-06,59.7,88.1,264.0,682.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-02,AX,2025-01-06,43.9,65.6,262.0,570.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-05,AX,2025-01-06,51.9,87.2,262.0,625.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-07,BX,2025-01-06,35.6,52.4,262.0,511.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-03,AX,2025-01-06,32.3,52.2,261.0,487.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-03,BX,2025-01-06,39.1,52.1,261.0,534.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-02,AX,2025-01-06,43.1,65.2,261.0,563.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-01,AX,2025-01-06,55.7,86.9,261.0,651.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-07,BX,2025-01-06,31.2,52.0,260.0,479.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-01,AX,2025-01-06,51.1,86.0,258.0,616.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-14,AX,2025-01-06,41.7,64.0,256.0,548.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-02,AX,2025-01-06,41.5,64.1,256.0,547.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-14,BX,2025-01-06,37.4,63.4,254.0,516.0
+SKU-030,Vitamin C 500mg,Vitamins,DC-04,CX,2025-01-06,44.0,63.1,252.0,560.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-14,AX,2025-01-06,45.8,62.9,251.0,572.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-06,BX,2025-01-06,42.5,62.8,251.0,549.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-09,AX,2025-01-06,56.6,83.5,250.0,647.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-06,AX,2025-01-06,42.4,61.8,247.0,544.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-05,AX,2025-01-06,52.0,82.0,246.0,610.0
+SKU-015,Metformin 500mg,Diabetes,DC-04,BX,2025-01-06,44.5,61.1,245.0,556.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-07,AX,2025-01-06,31.6,48.8,244.0,465.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-05,AX,2025-01-06,48.3,80.2,241.0,579.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-10,AX,2025-01-06,40.8,59.0,236.0,522.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-07,CX,2025-01-06,38.2,46.6,233.0,500.0
+SKU-004,Aspirin 100mg,Analgesics,DC-08,CX,2025-01-06,30.2,38.7,232.0,444.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-06,BX,2025-01-06,43.8,57.8,231.0,538.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-13,AY,2025-01-06,31.8,38.5,231.0,453.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-05,BX,2025-01-06,53.0,76.8,230.0,602.0
+SKU-004,Aspirin 100mg,Analgesics,DC-11,CX,2025-01-06,46.8,57.4,230.0,558.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-12,BX,2025-01-06,32.3,38.2,229.0,455.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-02,AY,2025-01-06,34.1,57.3,229.0,468.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-12,AY,2025-01-06,28.8,38.1,228.0,430.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-13,BX,2025-01-06,34.3,37.6,226.0,465.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-08,AX,2025-01-06,21.4,37.6,226.0,375.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-11,AX,2025-01-06,39.5,56.3,225.0,502.0
+SKU-004,Aspirin 100mg,Analgesics,DC-13,CX,2025-01-06,30.8,37.2,223.0,439.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-09,AX,2025-01-06,47.0,73.8,221.0,551.0
+SKU-004,Aspirin 100mg,Analgesics,DC-12,CX,2025-01-06,26.3,36.8,221.0,405.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-13,AX,2025-01-06,32.1,36.9,221.0,446.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-07,BX,2025-01-06,43.2,44.0,220.0,523.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-01,BX,2025-01-06,51.8,73.3,220.0,583.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-09,BX,2025-01-06,49.9,73.3,220.0,569.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-03,AX,2025-01-06,36.9,43.7,219.0,477.0
+SKU-004,Aspirin 100mg,Analgesics,DC-01,BX,2025-01-06,48.2,71.3,214.0,551.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-04,BX,2025-01-06,38.3,53.6,214.0,483.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-04,BX,2025-01-06,37.4,52.8,211.0,473.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-12,AX,2025-01-06,23.9,35.2,211.0,379.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-08,AX,2025-01-06,21.3,35.1,211.0,360.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-14,BX,2025-01-06,41.8,52.7,211.0,503.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-03,BX,2025-01-06,35.9,41.8,209.0,460.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-14,BX,2025-01-06,39.8,52.3,209.0,488.0
+SKU-004,Aspirin 100mg,Analgesics,DC-05,CX,2025-01-06,45.8,69.8,209.0,530.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-13,CX,2025-01-06,24.3,34.7,208.0,378.0
+SKU-004,Aspirin 100mg,Analgesics,DC-14,CX,2025-01-06,35.7,52.0,208.0,458.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-13,AX,2025-01-06,14.3,34.3,206.0,307.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-04,BX,2025-01-06,36.4,51.6,206.0,461.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-12,BX,2025-01-06,23.8,34.3,206.0,373.0
+SKU-004,Aspirin 100mg,Analgesics,DC-06,CX,2025-01-06,35.1,50.9,204.0,449.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-08,BX,2025-01-06,18.7,33.9,203.0,334.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-08,CX,2025-01-06,16.3,33.8,203.0,317.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-01,AY,2025-01-06,41.0,67.6,203.0,490.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-12,CX,2025-01-06,22.0,33.8,203.0,357.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-10,AX,2025-01-06,33.2,50.5,202.0,435.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-01,AX,2025-01-06,44.2,67.3,202.0,511.0
+SKU-011,Amlodipine 5mg,Cardiovascular,DC-11,BX,2025-01-06,36.9,50.5,202.0,460.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-08,BX,2025-01-06,22.1,33.6,202.0,356.0
+SKU-010,Atorvastatin 20mg,Cardiovascular,DC-09,AX,2025-01-06,46.0,67.1,201.0,524.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-11,BX,2025-01-06,35.8,50.0,200.0,451.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-06,BX,2025-01-06,33.3,50.0,200.0,433.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-10,BX,2025-01-06,35.9,50.0,200.0,451.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-03,BX,2025-01-06,36.3,40.1,200.0,455.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-12,CX,2025-01-06,16.5,33.1,199.0,314.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-04,BX,2025-01-06,47.0,49.8,199.0,528.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-13,CX,2025-01-06,21.7,32.9,197.0,349.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-05,AX,2025-01-06,40.7,65.7,197.0,482.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-14,BX,2025-01-06,33.1,49.1,196.0,428.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-06,AX,2025-01-06,31.7,48.7,195.0,417.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-08,CX,2025-01-06,14.8,32.5,195.0,299.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-08,CX,2025-01-06,15.1,32.3,194.0,300.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-08,CX,2025-01-06,14.8,32.1,193.0,297.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-07,AX,2025-01-06,26.7,38.6,193.0,380.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-07,BX,2025-01-06,27.7,38.3,192.0,385.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-12,CX,2025-01-06,14.1,31.9,191.0,290.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-08,CX,2025-01-06,14.5,31.9,191.0,293.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-13,CX,2025-01-06,13.7,31.7,190.0,286.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-14,AX,2025-01-06,31.6,47.5,190.0,412.0
+SKU-012,Losartan 50mg,Cardiovascular,DC-09,AX,2025-01-06,38.0,63.3,190.0,456.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-08,BX,2025-01-06,16.1,31.5,189.0,302.0
+SKU-022,Montelukast 10mg,Respiratory,DC-08,BX,2025-01-06,13.8,31.4,189.0,285.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-12,CX,2025-01-06,16.5,31.4,189.0,304.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-11,BX,2025-01-06,31.3,47.1,188.0,408.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-12,CX,2025-01-06,15.0,31.3,188.0,292.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-11,AX,2025-01-06,33.5,46.9,188.0,422.0
+SKU-022,Montelukast 10mg,Respiratory,DC-12,BX,2025-01-06,13.5,31.3,188.0,282.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-12,CX,2025-01-06,13.3,31.4,188.0,281.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-12,BX,2025-01-06,15.6,31.3,188.0,297.0
+SKU-004,Aspirin 100mg,Analgesics,DC-10,CX,2025-01-06,32.2,47.0,188.0,414.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-12,AX,2025-01-06,16.4,31.2,187.0,302.0
+SKU-024,Omeprazole 20mg,Gastrointestinal,DC-09,AX,2025-01-06,45.5,62.4,187.0,506.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-13,CX,2025-01-06,14.7,31.2,187.0,290.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-13,CX,2025-01-06,15.8,31.0,186.0,296.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-03,BX,2025-01-06,18.0,37.3,186.0,312.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-08,CX,2025-01-06,17.2,31.0,186.0,306.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-12,CX,2025-01-06,16.9,30.9,186.0,304.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-05,AX,2025-01-06,35.8,62.0,186.0,437.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-13,CX,2025-01-06,19.2,31.0,186.0,320.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-12,CX,2025-01-06,17.5,30.9,185.0,308.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-13,BX,2025-01-06,18.7,30.9,185.0,316.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-13,CX,2025-01-06,14.0,30.8,185.0,283.0
+SKU-005,Naproxen 250mg,Analgesics,DC-12,CX,2025-01-06,13.7,30.9,185.0,281.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-13,AX,2025-01-06,15.3,30.9,185.0,293.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-12,CX,2025-01-06,20.0,30.9,185.0,325.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-02,BX,2025-01-06,38.0,46.1,184.0,451.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-03,CX,2025-01-06,32.5,36.8,184.0,411.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-08,CX,2025-01-06,14.6,30.7,184.0,286.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-08,AX,2025-01-06,15.5,30.6,184.0,292.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-08,CX,2025-01-06,13.5,30.6,184.0,278.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-08,CX,2025-01-06,14.0,30.5,183.0,281.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-12,CX,2025-01-06,13.5,30.6,183.0,278.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-13,CX,2025-01-06,16.2,30.5,183.0,296.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-13,CX,2025-01-06,14.0,30.5,183.0,281.0
+SKU-005,Naproxen 250mg,Analgesics,DC-08,CX,2025-01-06,13.3,30.5,183.0,276.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-08,BX,2025-01-06,13.8,30.5,183.0,279.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-08,CX,2025-01-06,14.2,30.5,183.0,283.0
+SKU-021,Loratadine 10mg,Respiratory,DC-08,CX,2025-01-06,13.8,30.3,182.0,279.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-12,CX,2025-01-06,16.6,30.3,182.0,298.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-08,CX,2025-01-06,13.6,30.4,182.0,277.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-12,AX,2025-01-06,12.2,30.3,182.0,267.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-13,CX,2025-01-06,14.5,30.3,182.0,283.0
+SKU-021,Loratadine 10mg,Respiratory,DC-12,CX,2025-01-06,14.4,30.3,182.0,283.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-13,CX,2025-01-06,14.2,30.4,182.0,281.0
+SKU-022,Montelukast 10mg,Respiratory,DC-13,BX,2025-01-06,13.4,30.3,182.0,275.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-03,BX,2025-01-06,26.4,36.2,181.0,366.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-13,CX,2025-01-06,12.7,30.1,181.0,269.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-08,BX,2025-01-06,13.1,30.1,181.0,273.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-08,CX,2025-01-06,12.5,30.2,181.0,269.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-12,BX,2025-01-06,12.7,30.2,181.0,270.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-09,AX,2025-01-06,41.1,60.5,181.0,469.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-12,BX,2025-01-06,13.0,30.1,181.0,272.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-13,CX,2025-01-06,13.5,30.2,181.0,275.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-12,CX,2025-01-06,11.9,30.2,181.0,265.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-13,BX,2025-01-06,13.5,30.2,181.0,275.0
+SKU-005,Naproxen 250mg,Analgesics,DC-13,CX,2025-01-06,16.7,30.2,181.0,299.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-07,CX,2025-01-06,18.1,36.2,181.0,308.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-12,BX,2025-01-06,12.9,30.2,181.0,272.0
+SKU-021,Loratadine 10mg,Respiratory,DC-13,CX,2025-01-06,12.9,30.2,181.0,271.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-08,BX,2025-01-06,11.5,30.1,181.0,261.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-13,AX,2025-01-06,13.8,30.2,181.0,277.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-12,CX,2025-01-06,14.4,30.1,181.0,282.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-08,AX,2025-01-06,14.7,30.2,181.0,284.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-08,CX,2025-01-06,12.4,30.2,181.0,268.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-13,CX,2025-01-06,12.5,30.1,181.0,268.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-13,CX,2025-01-06,12.2,30.1,181.0,266.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-08,CX,2025-01-06,13.5,30.2,181.0,275.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-08,AX,2025-01-06,13.1,30.2,181.0,273.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-12,AX,2025-01-06,12.5,30.1,181.0,269.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-13,AX,2025-01-06,13.2,30.2,181.0,274.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-13,AX,2025-01-06,11.9,30.1,180.0,263.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-13,BX,2025-01-06,12.7,30.1,180.0,269.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-12,AX,2025-01-06,12.3,30.1,180.0,266.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-08,AX,2025-01-06,12.0,30.1,180.0,264.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-13,CX,2025-01-06,12.2,30.1,180.0,266.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-12,CX,2025-01-06,12.3,30.0,180.0,266.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-12,CX,2025-01-06,12.4,30.1,180.0,267.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-13,BY,2025-01-06,12.3,30.1,180.0,267.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-07,AX,2025-01-06,23.9,35.9,180.0,347.0
+SKU-002,Ibuprofen 400mg,Analgesics,DC-04,BX,2025-01-06,32.1,44.7,179.0,404.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-01,BX,2025-01-06,41.3,59.6,179.0,468.0
+SKU-006,Amoxicillin 500mg,Antibiotics,DC-04,BX,2025-01-06,30.7,44.8,179.0,394.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-03,CX,2025-01-06,19.1,35.8,179.0,313.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-03,CX,2025-01-06,23.7,35.3,177.0,343.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-03,BX,2025-01-06,23.0,35.4,177.0,338.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-14,BX,2025-01-06,30.6,44.3,177.0,391.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-07,BX,2025-01-06,24.7,35.2,176.0,349.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-02,BX,2025-01-06,33.4,43.6,175.0,408.0
+SKU-004,Aspirin 100mg,Analgesics,DC-09,CX,2025-01-06,36.5,58.4,175.0,431.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-01,BX,2025-01-06,38.6,57.9,174.0,444.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-01,AX,2025-01-06,40.8,58.2,174.0,460.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-06,BX,2025-01-06,38.6,43.4,173.0,444.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-04,AX,2025-01-06,38.0,42.9,172.0,437.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-01,BX,2025-01-06,41.1,57.4,172.0,460.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-10,AX,2025-01-06,28.1,43.1,172.0,369.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-03,CX,2025-01-06,19.6,34.2,171.0,308.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-09,CX,2025-01-06,41.7,56.7,170.0,462.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-02,CX,2025-01-06,36.5,42.6,170.0,426.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-07,CX,2025-01-06,22.0,33.8,169.0,323.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-07,BX,2025-01-06,18.3,33.7,169.0,297.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-03,AX,2025-01-06,22.9,33.6,168.0,329.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-03,AX,2025-01-06,15.2,33.4,167.0,273.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-09,BX,2025-01-06,39.5,55.4,166.0,443.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-02,CX,2025-01-06,27.1,41.2,165.0,354.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-07,CX,2025-01-06,21.2,32.9,164.0,313.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-10,BX,2025-01-06,37.3,41.0,164.0,425.0
+SKU-022,Montelukast 10mg,Respiratory,DC-03,AX,2025-01-06,19.2,32.6,163.0,297.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-03,CX,2025-01-06,20.9,32.6,163.0,309.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-07,CX,2025-01-06,14.1,32.6,163.0,261.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-11,BX,2025-01-06,31.7,40.8,163.0,385.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-02,BX,2025-01-06,26.7,40.6,162.0,349.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-10,BX,2025-01-06,32.5,40.5,162.0,390.0
+SKU-021,Loratadine 10mg,Respiratory,DC-03,CX,2025-01-06,20.9,32.3,162.0,308.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-05,BX,2025-01-06,37.3,53.9,162.0,423.0
+SKU-022,Montelukast 10mg,Respiratory,DC-14,AX,2025-01-06,27.4,40.2,161.0,353.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-07,AX,2025-01-06,18.4,32.3,161.0,290.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-05,AX,2025-01-06,37.9,53.6,161.0,426.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-14,CX,2025-01-06,31.5,39.9,160.0,380.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-07,AY,2025-01-06,14.1,32.1,160.0,259.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-09,AY,2025-01-06,33.4,53.2,160.0,393.0
+SKU-022,Montelukast 10mg,Respiratory,DC-07,AX,2025-01-06,13.7,32.0,160.0,256.0
+SKU-005,Naproxen 250mg,Analgesics,DC-07,CX,2025-01-06,13.2,31.8,159.0,251.0
+SKU-005,Naproxen 250mg,Analgesics,DC-03,CX,2025-01-06,15.4,31.9,159.0,268.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-03,CX,2025-01-06,13.8,31.8,159.0,255.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-07,CX,2025-01-06,13.8,31.8,159.0,256.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-14,CX,2025-01-06,25.5,39.5,158.0,337.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-02,BX,2025-01-06,29.9,39.4,158.0,367.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-07,CX,2025-01-06,13.8,31.4,157.0,253.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-03,AX,2025-01-06,20.0,31.5,157.0,298.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-03,CX,2025-01-06,14.1,31.3,157.0,255.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-03,BX,2025-01-06,14.2,31.4,157.0,256.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-03,BX,2025-01-06,14.7,31.4,157.0,260.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-07,BX,2025-01-06,13.2,31.3,156.0,249.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-06,BX,2025-01-06,33.8,38.9,156.0,392.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-06,CX,2025-01-06,29.8,39.0,156.0,364.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-02,AX,2025-01-06,33.6,38.9,156.0,391.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-10,BX,2025-01-06,34.3,38.9,156.0,396.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-07,CX,2025-01-06,17.6,31.3,156.0,279.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-03,CX,2025-01-06,19.2,31.0,155.0,290.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-07,CX,2025-01-06,14.5,31.0,155.0,256.0
+SKU-021,Loratadine 10mg,Respiratory,DC-07,CX,2025-01-06,14.6,30.9,155.0,257.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-14,BX,2025-01-06,32.5,38.8,155.0,382.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-03,AX,2025-01-06,14.0,30.8,154.0,252.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-01,BX,2025-01-06,34.5,51.3,154.0,395.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-11,CX,2025-01-06,32.5,38.4,154.0,381.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-03,CX,2025-01-06,13.0,30.8,154.0,245.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-11,AX,2025-01-06,26.3,38.2,153.0,337.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-03,CX,2025-01-06,13.5,30.6,153.0,248.0
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,DC-11,AY,2025-01-06,29.2,38.0,152.0,357.0
+SKU-004,Aspirin 100mg,Analgesics,DC-04,CX,2025-01-06,33.2,38.0,152.0,385.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-03,BY,2025-01-06,13.0,30.4,152.0,243.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-02,BX,2025-01-06,34.3,37.9,152.0,392.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-07,BX,2025-01-06,14.8,30.5,152.0,256.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-07,CX,2025-01-06,14.6,30.5,152.0,254.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-05,BX,2025-01-06,34.2,50.7,152.0,392.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-07,CX,2025-01-06,12.7,30.2,151.0,240.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-01,BX,2025-01-06,32.4,50.3,151.0,378.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-03,CX,2025-01-06,12.7,30.1,151.0,240.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-07,BX,2025-01-06,18.0,30.2,151.0,277.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-07,AX,2025-01-06,12.7,30.2,151.0,240.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-07,CX,2025-01-06,13.5,30.1,151.0,245.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-07,AX,2025-01-06,13.4,30.2,151.0,245.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-07,CX,2025-01-06,15.5,30.1,151.0,260.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-07,AX,2025-01-06,13.8,30.0,150.0,246.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-06,BX,2025-01-06,22.0,37.6,150.0,304.0
+SKU-007,Azithromycin 250mg,Antibiotics,DC-04,AX,2025-01-06,33.4,37.6,150.0,384.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-03,AX,2025-01-06,11.8,30.0,150.0,233.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-14,BX,2025-01-06,28.2,37.4,150.0,347.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-02,BX,2025-01-06,32.3,37.2,149.0,375.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-14,CX,2025-01-06,21.0,37.2,149.0,296.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-10,CX,2025-01-06,30.5,37.3,149.0,363.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-06,BX,2025-01-06,24.6,37.1,148.0,321.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-02,CX,2025-01-06,23.9,37.0,148.0,315.0
+SKU-022,Montelukast 10mg,Respiratory,DC-02,AX,2025-01-06,23.2,37.1,148.0,311.0
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,DC-04,AX,2025-01-06,21.4,37.0,148.0,298.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-09,BX,2025-01-06,41.6,49.4,148.0,440.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-11,BX,2025-01-06,28.6,36.8,147.0,347.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-06,CX,2025-01-06,26.8,36.8,147.0,335.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-14,BX,2025-01-06,32.4,36.9,147.0,374.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-14,AX,2025-01-06,32.6,36.8,147.0,375.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-10,BX,2025-01-06,19.4,36.5,146.0,281.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-06,CX,2025-01-06,30.9,36.6,146.0,363.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-01,BX,2025-01-06,43.6,48.8,146.0,451.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-05,AX,2025-01-06,35.9,48.7,146.0,398.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-10,CX,2025-01-06,19.9,36.4,145.0,285.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-06,AX,2025-01-06,24.2,35.9,144.0,313.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-11,CX,2025-01-06,22.4,35.9,144.0,301.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-14,CX,2025-01-06,22.9,36.0,144.0,304.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-06,CX,2025-01-06,24.6,35.9,144.0,316.0
+SKU-005,Naproxen 250mg,Analgesics,DC-06,BX,2025-01-06,25.0,35.8,143.0,318.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-02,BX,2025-01-06,18.1,35.8,143.0,270.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-09,BX,2025-01-06,32.6,47.6,143.0,371.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-11,BX,2025-01-06,19.8,35.6,142.0,281.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-10,BX,2025-01-06,17.9,35.6,142.0,267.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-01,BX,2025-01-06,33.4,47.5,142.0,376.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-05,BX,2025-01-06,37.8,47.5,142.0,407.0
+SKU-005,Naproxen 250mg,Analgesics,DC-02,BX,2025-01-06,23.1,35.4,141.0,303.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-10,CX,2025-01-06,23.3,35.1,141.0,304.0
+SKU-034,Levothyroxine 100mcg,Endocrine,DC-04,BX,2025-01-06,25.5,35.3,141.0,320.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-02,BX,2025-01-06,21.6,35.1,140.0,291.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-05,BX,2025-01-06,31.7,46.8,140.0,362.0
+SKU-022,Montelukast 10mg,Respiratory,DC-06,AX,2025-01-06,17.6,34.8,139.0,262.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-11,CX,2025-01-06,21.1,34.8,139.0,287.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-06,BX,2025-01-06,22.7,34.7,139.0,298.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-02,AX,2025-01-06,22.3,34.6,139.0,295.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-14,AX,2025-01-06,17.5,34.7,139.0,261.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-05,BX,2025-01-06,30.2,46.4,139.0,351.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-09,BX,2025-01-06,41.5,45.6,137.0,427.0
+SKU-005,Naproxen 250mg,Analgesics,DC-10,BX,2025-01-06,17.9,34.2,137.0,262.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-10,CX,2025-01-06,23.4,34.2,137.0,301.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-02,CX,2025-01-06,18.9,34.3,137.0,270.0
+SKU-022,Montelukast 10mg,Respiratory,DC-01,AX,2025-01-06,38.8,45.2,136.0,407.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-10,BX,2025-01-06,17.5,34.0,136.0,258.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-14,BX,2025-01-06,21.5,34.1,136.0,287.0
+SKU-033,Calcium + Vitamin D,Vitamins,DC-04,CX,2025-01-06,18.8,34.0,136.0,268.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-06,AX,2025-01-06,16.8,34.0,136.0,253.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-06,CX,2025-01-06,17.4,33.8,135.0,257.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-10,CX,2025-01-06,21.3,33.7,135.0,284.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-10,CX,2025-01-06,22.1,33.7,135.0,290.0
+SKU-021,Loratadine 10mg,Respiratory,DC-06,BX,2025-01-06,22.4,33.7,135.0,292.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-02,BX,2025-01-06,20.3,33.6,134.0,276.0
+SKU-021,Loratadine 10mg,Respiratory,DC-02,BX,2025-01-06,18.4,33.5,134.0,263.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-11,CX,2025-01-06,19.7,33.4,134.0,271.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-04,BX,2025-01-06,18.2,33.5,134.0,261.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-14,CX,2025-01-06,16.8,33.3,133.0,251.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-04,CX,2025-01-06,14.6,33.2,133.0,235.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-04,CX,2025-01-06,18.0,33.2,133.0,259.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-11,AX,2025-01-06,15.6,33.4,133.0,243.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-10,CX,2025-01-06,22.1,33.3,133.0,288.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-04,BX,2025-01-06,17.8,33.4,133.0,258.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-02,BX,2025-01-06,17.0,33.2,133.0,252.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-04,CX,2025-01-06,20.6,33.1,132.0,277.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-14,BX,2025-01-06,18.9,32.9,132.0,264.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-11,CX,2025-01-06,18.0,32.7,131.0,256.0
+SKU-005,Naproxen 250mg,Analgesics,DC-14,BX,2025-01-06,15.7,32.8,131.0,241.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-11,CX,2025-01-06,15.1,32.7,131.0,236.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-06,CX,2025-01-06,22.1,32.9,131.0,286.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-14,BX,2025-01-06,16.7,32.5,130.0,247.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-01,AX,2025-01-06,31.2,43.2,130.0,348.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-05,BX,2025-01-06,29.8,43.5,130.0,339.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-14,BX,2025-01-06,16.4,32.5,130.0,245.0
+SKU-016,Gliclazide 80mg,Diabetes,DC-01,BX,2025-01-06,28.9,43.4,130.0,332.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-06,BX,2025-01-06,18.1,32.3,129.0,256.0
+SKU-021,Loratadine 10mg,Respiratory,DC-14,BX,2025-01-06,22.1,32.4,129.0,284.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-11,CX,2025-01-06,16.2,32.2,129.0,242.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-10,AX,2025-01-06,14.9,32.2,129.0,233.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-02,CX,2025-01-06,14.1,32.2,129.0,228.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-11,CX,2025-01-06,20.5,32.2,129.0,272.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-10,AX,2025-01-06,20.1,32.2,129.0,269.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-04,CX,2025-01-06,15.0,31.9,128.0,233.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-02,AX,2025-01-06,22.0,32.1,128.0,282.0
+SKU-022,Montelukast 10mg,Respiratory,DC-11,AX,2025-01-06,14.4,31.9,128.0,228.0
+SKU-021,Loratadine 10mg,Respiratory,DC-11,CX,2025-01-06,14.7,32.0,128.0,231.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-06,BX,2025-01-06,15.4,31.7,127.0,235.0
+SKU-022,Montelukast 10mg,Respiratory,DC-10,AX,2025-01-06,15.3,31.9,127.0,235.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-04,CX,2025-01-06,13.2,31.7,127.0,219.0
+SKU-005,Naproxen 250mg,Analgesics,DC-01,BX,2025-01-06,38.5,42.3,127.0,396.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-02,BX,2025-01-06,15.0,31.8,127.0,232.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-11,CX,2025-01-06,12.9,31.7,127.0,217.0
+SKU-022,Montelukast 10mg,Respiratory,DC-04,AX,2025-01-06,12.7,31.6,126.0,216.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-04,CX,2025-01-06,13.1,31.4,126.0,217.0
+SKU-021,Loratadine 10mg,Respiratory,DC-10,CX,2025-01-06,19.5,31.6,126.0,262.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-01,AX,2025-01-06,38.2,42.0,126.0,393.0
+SKU-003,Diclofenac 50mg,Analgesics,DC-09,BX,2025-01-06,37.6,42.1,126.0,389.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-14,AX,2025-01-06,17.9,31.6,126.0,251.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-11,AX,2025-01-06,18.0,31.4,126.0,252.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-11,BX,2025-01-06,14.5,31.5,126.0,228.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-10,AX,2025-01-06,13.4,31.4,126.0,220.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-01,BX,2025-01-06,35.9,41.5,125.0,376.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-11,AX,2025-01-06,14.3,31.2,125.0,225.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-04,AX,2025-01-06,16.5,31.3,125.0,240.0
+SKU-005,Naproxen 250mg,Analgesics,DC-04,CX,2025-01-06,14.6,31.2,125.0,227.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-10,CX,2025-01-06,20.8,31.3,125.0,271.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-06,CX,2025-01-06,17.0,31.3,125.0,244.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-14,CX,2025-01-06,13.7,31.2,125.0,221.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-04,AX,2025-01-06,13.0,31.3,125.0,216.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-14,AX,2025-01-06,15.0,31.3,125.0,230.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-02,AX,2025-01-06,13.3,31.2,125.0,218.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-06,AX,2025-01-06,19.7,31.1,124.0,262.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-10,BX,2025-01-06,16.6,31.0,124.0,240.0
+SKU-005,Naproxen 250mg,Analgesics,DC-11,CX,2025-01-06,14.6,31.0,124.0,226.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-10,AX,2025-01-06,19.1,31.1,124.0,258.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-06,AX,2025-01-06,18.2,31.0,124.0,251.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-04,CX,2025-01-06,16.3,31.0,124.0,238.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-02,AX,2025-01-06,16.5,30.9,124.0,239.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-06,BX,2025-01-06,17.4,31.1,124.0,246.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-10,CX,2025-01-06,14.7,31.1,124.0,227.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-04,AX,2025-01-06,19.1,31.1,124.0,258.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-11,CX,2025-01-06,15.0,31.0,124.0,229.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-14,CX,2025-01-06,16.4,30.7,123.0,237.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-02,CX,2025-01-06,13.7,30.6,123.0,219.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-04,CX,2025-01-06,15.6,30.7,123.0,232.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-14,AY,2025-01-06,13.0,30.7,123.0,214.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-06,CX,2025-01-06,18.6,30.7,123.0,253.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-11,CX,2025-01-06,16.1,30.7,123.0,235.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-06,CX,2025-01-06,12.8,30.5,122.0,212.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-04,CX,2025-01-06,13.9,30.5,122.0,219.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-01,AX,2025-01-06,37.6,40.6,122.0,385.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-06,CX,2025-01-06,13.3,30.5,122.0,215.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-04,CX,2025-01-06,13.4,30.6,122.0,216.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-02,CX,2025-01-06,15.0,30.5,122.0,227.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-10,BX,2025-01-06,14.6,30.5,122.0,224.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-11,BX,2025-01-06,15.4,30.6,122.0,230.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-11,BX,2025-01-06,14.6,30.5,122.0,224.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-04,BX,2025-01-06,13.0,30.2,121.0,212.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-11,CX,2025-01-06,13.6,30.2,121.0,216.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-14,CX,2025-01-06,12.7,30.2,121.0,210.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-10,CX,2025-01-06,15.7,30.3,121.0,232.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-04,CX,2025-01-06,13.3,30.2,121.0,214.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-11,AX,2025-01-06,13.0,30.1,121.0,211.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-04,AX,2025-01-06,14.8,30.1,121.0,224.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-02,AX,2025-01-06,13.2,30.2,121.0,213.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-10,CX,2025-01-06,12.5,30.2,121.0,208.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-06,AX,2025-01-06,13.4,30.2,121.0,215.0
+SKU-021,Loratadine 10mg,Respiratory,DC-04,CX,2025-01-06,15.9,30.3,121.0,233.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-14,AX,2025-01-06,12.7,30.1,121.0,209.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-11,AX,2025-01-06,12.4,30.2,121.0,207.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-04,CX,2025-01-06,14.9,30.2,121.0,225.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-04,BX,2025-01-06,13.0,30.2,121.0,212.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-10,AX,2025-01-06,12.6,30.1,120.0,208.0
+SKU-014,Furosemide 40mg,Cardiovascular,DC-05,CX,2025-01-06,30.5,40.2,120.0,334.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-11,CX,2025-01-06,11.6,30.1,120.0,202.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-04,AX,2025-01-06,12.4,30.1,120.0,207.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-04,CX,2025-01-06,11.4,30.1,120.0,200.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-05,BY,2025-01-06,33.4,39.1,117.0,351.0
+SKU-022,Montelukast 10mg,Respiratory,DC-05,AX,2025-01-06,25.3,38.7,116.0,293.0
+SKU-021,Loratadine 10mg,Respiratory,DC-05,BX,2025-01-06,29.5,38.6,116.0,322.0
+SKU-009,Ciprofloxacin 500mg,Antibiotics,DC-09,BX,2025-01-06,26.9,38.4,115.0,304.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-05,BX,2025-01-06,25.3,38.0,114.0,291.0
+SKU-040,Metoprolol 50mg,Cardiovascular,DC-05,BX,2025-01-06,33.2,37.9,114.0,346.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-09,AX,2025-01-06,28.8,37.6,113.0,314.0
+SKU-005,Naproxen 250mg,Analgesics,DC-09,BX,2025-01-06,31.7,37.6,113.0,335.0
+SKU-032,Iron + Folic Acid,Vitamins,DC-09,BX,2025-01-06,31.6,37.7,113.0,335.0
+SKU-021,Loratadine 10mg,Respiratory,DC-01,BX,2025-01-06,29.1,37.7,113.0,317.0
+SKU-018,Sitagliptin 100mg,Diabetes,DC-05,AX,2025-01-06,32.9,37.6,113.0,343.0
+SKU-020,Cetirizine 10mg,Respiratory,DC-09,BX,2025-01-06,19.5,37.2,112.0,248.0
+SKU-025,Famotidine 40mg,Gastrointestinal,DC-09,CX,2025-01-06,21.6,37.4,112.0,263.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-01,AX,2025-01-06,32.1,37.2,112.0,336.0
+SKU-005,Naproxen 250mg,Analgesics,DC-05,BX,2025-01-06,24.9,37.3,112.0,286.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-01,BX,2025-01-06,25.0,37.0,111.0,286.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-01,CX,2025-01-06,30.5,36.6,110.0,323.0
+SKU-022,Montelukast 10mg,Respiratory,DC-09,AX,2025-01-06,19.0,36.5,109.0,243.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-01,AX,2025-01-06,26.0,36.4,109.0,291.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-05,AX,2025-01-06,23.3,36.3,109.0,272.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-05,BX,2025-01-06,20.3,36.2,109.0,251.0
+SKU-013,Warfarin 5mg,Cardiovascular,DC-09,BX,2025-01-06,18.5,35.9,108.0,237.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-09,AX,2025-01-06,25.6,36.1,108.0,287.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-05,AX,2025-01-06,23.3,35.4,106.0,269.0
+SKU-021,Loratadine 10mg,Respiratory,DC-09,BX,2025-01-06,24.8,35.2,106.0,279.0
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,DC-09,AX,2025-01-06,25.4,35.4,106.0,284.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-01,BX,2025-01-06,24.8,34.7,104.0,278.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-01,CX,2025-01-06,17.7,34.7,104.0,228.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-05,CX,2025-01-06,18.0,34.6,104.0,230.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,DC-09,BX,2025-01-06,22.4,34.5,103.0,260.0
+SKU-035,Levothyroxine 50mcg,Endocrine,DC-09,BX,2025-01-06,23.0,34.0,102.0,263.0
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,DC-05,AX,2025-01-06,22.9,34.0,102.0,262.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-05,BX,2025-01-06,20.3,34.1,102.0,244.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-01,CX,2025-01-06,20.7,33.8,101.0,246.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-01,AX,2025-01-06,22.0,33.7,101.0,255.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-01,BX,2025-01-06,18.9,33.7,101.0,233.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-05,CX,2025-01-06,20.1,33.2,100.0,240.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-05,AY,2025-01-06,17.4,32.9,99.0,220.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-05,CX,2025-01-06,22.8,33.0,99.0,259.0
+SKU-026,Domperidone 10mg,Gastrointestinal,DC-09,CX,2025-01-06,20.3,32.4,97.0,239.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-05,CX,2025-01-06,15.1,32.5,97.0,203.0
+SKU-036,Prednisolone 5mg,Anti-inflammatory,DC-09,CX,2025-01-06,19.6,32.5,97.0,234.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-01,AX,2025-01-06,15.4,32.4,97.0,205.0
+SKU-041,Doxycycline 100mg,Antibiotics,DC-09,BX,2025-01-06,14.8,32.2,96.0,200.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-05,AX,2025-01-06,14.5,32.2,96.0,198.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-01,AX,2025-01-06,19.3,31.2,94.0,229.0
+SKU-027,Loperamide 2mg,Gastrointestinal,DC-09,CX,2025-01-06,13.8,31.4,94.0,191.0
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,DC-09,AX,2025-01-06,15.3,31.2,93.0,201.0
+SKU-028,Oral Rehydration Salts,Gastrointestinal,DC-09,AX,2025-01-06,13.8,31.2,93.0,190.0
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,DC-09,CX,2025-01-06,13.4,30.6,92.0,186.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-09,AX,2025-01-06,14.0,30.2,91.0,188.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,DC-05,AX,2025-01-06,12.6,30.1,90.0,178.0

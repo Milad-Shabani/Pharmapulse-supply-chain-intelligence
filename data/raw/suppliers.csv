@@ -1,0 +1,9 @@
+supplier_id,supplier_name,region,category,avg_lead_time_days,on_time_rate
+SUP-01,Meridian API Imports,Overseas,API,55,0.8
+SUP-02,Continental Pharma Ingredients,Overseas,API,48,0.83
+SUP-03,Highland Fine Chemicals,Regional,API,30,0.88
+SUP-04,Vantage Biosynthesis,Overseas,API,60,0.76
+SUP-05,Northgate Excipients Co.,Domestic,Excipient,10,0.95
+SUP-06,Cedar Packaging Supplies,Domestic,Packaging,8,0.96
+SUP-07,Rosedale Glass & Vials,Domestic,Packaging,14,0.92
+SUP-08,Fairview Specialty Chemicals,Regional,Excipient,18,0.9

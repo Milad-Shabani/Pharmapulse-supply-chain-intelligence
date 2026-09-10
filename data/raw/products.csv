@@ -1,0 +1,43 @@
+product_id,generic_name,category,seasonality_profile,base_daily_units_per_center,unit_cost,unit_price,pack_size,shelf_life_days,requires_cold_chain,margin_pct
+SKU-001,Paracetamol 500mg,Analgesics,winter_bump,220,0.03,0.08,20,730,False,62.5
+SKU-002,Ibuprofen 400mg,Analgesics,winter_bump,160,0.04,0.1,20,730,False,60.0
+SKU-003,Diclofenac 50mg,Analgesics,flat,90,0.05,0.13,20,730,False,61.5
+SKU-004,Aspirin 100mg,Analgesics,flat,130,0.02,0.06,30,900,False,66.7
+SKU-005,Naproxen 250mg,Analgesics,flat,70,0.06,0.15,20,730,False,60.0
+SKU-006,Amoxicillin 500mg,Antibiotics,strong_winter,140,0.08,0.22,21,730,False,63.6
+SKU-007,Azithromycin 250mg,Antibiotics,strong_winter,95,0.15,0.45,6,730,False,66.7
+SKU-008,Ceftriaxone 1g Injection,Antibiotics,strong_winter,40,0.9,2.2,1,540,False,59.1
+SKU-009,Ciprofloxacin 500mg,Antibiotics,mild_winter,75,0.1,0.28,10,730,False,64.3
+SKU-010,Atorvastatin 20mg,Cardiovascular,flat_chronic,180,0.06,0.18,30,900,False,66.7
+SKU-011,Amlodipine 5mg,Cardiovascular,flat_chronic,170,0.04,0.12,30,900,False,66.7
+SKU-012,Losartan 50mg,Cardiovascular,flat_chronic,150,0.05,0.15,30,900,False,66.7
+SKU-013,Warfarin 5mg,Cardiovascular,flat_chronic,60,0.07,0.2,30,730,False,65.0
+SKU-014,Furosemide 40mg,Cardiovascular,flat_chronic,85,0.03,0.09,30,900,False,66.7
+SKU-015,Metformin 500mg,Diabetes,flat_chronic,200,0.03,0.1,30,900,False,70.0
+SKU-016,Gliclazide 80mg,Diabetes,flat_chronic,90,0.06,0.17,30,900,False,64.7
+SKU-017,Insulin Glargine 100IU/mL,Diabetes,flat_chronic,55,4.5,9.8,1,540,True,54.1
+SKU-018,Sitagliptin 100mg,Diabetes,flat_chronic,65,0.35,0.85,30,900,False,58.8
+SKU-019,Salbutamol Inhaler 100mcg,Respiratory,strong_winter,70,1.2,2.8,1,730,False,57.1
+SKU-020,Cetirizine 10mg,Respiratory,spring_summer,130,0.02,0.07,20,900,False,71.4
+SKU-021,Loratadine 10mg,Respiratory,spring_summer,110,0.03,0.09,20,900,False,66.7
+SKU-022,Montelukast 10mg,Respiratory,mild_winter,60,0.2,0.55,30,730,False,63.6
+SKU-023,Dextromethorphan Syrup 100mL,Respiratory,strong_winter,85,0.6,1.4,1,540,False,57.1
+SKU-024,Omeprazole 20mg,Gastrointestinal,flat_chronic,140,0.05,0.15,30,900,False,66.7
+SKU-025,Famotidine 40mg,Gastrointestinal,flat,70,0.04,0.12,30,900,False,66.7
+SKU-026,Domperidone 10mg,Gastrointestinal,flat,55,0.05,0.14,30,730,False,64.3
+SKU-027,Loperamide 2mg,Gastrointestinal,mild_winter,40,0.03,0.09,12,900,False,66.7
+SKU-028,Oral Rehydration Salts,Gastrointestinal,strong_summer,100,0.1,0.25,1,730,False,60.0
+SKU-029,Vitamin D3 1000IU,Vitamins,new_year_bump,150,0.02,0.08,30,900,False,75.0
+SKU-030,Vitamin C 500mg,Vitamins,winter_bump,170,0.02,0.07,30,900,False,71.4
+SKU-031,Multivitamin Tablets,Vitamins,new_year_bump,140,0.04,0.13,30,900,False,69.2
+SKU-032,Iron + Folic Acid,Vitamins,flat,90,0.03,0.1,30,900,False,70.0
+SKU-033,Calcium + Vitamin D,Vitamins,flat,100,0.03,0.11,30,900,False,72.7
+SKU-034,Levothyroxine 100mcg,Endocrine,flat_chronic,95,0.05,0.16,30,730,False,68.8
+SKU-035,Levothyroxine 50mcg,Endocrine,flat_chronic,60,0.05,0.16,30,730,False,68.8
+SKU-036,Prednisolone 5mg,Anti-inflammatory,mild_winter,50,0.03,0.09,30,730,False,66.7
+SKU-037,Dexamethasone 0.5mg,Anti-inflammatory,mild_winter,35,0.04,0.12,30,730,False,66.7
+SKU-038,Hydrocortisone Cream 1%,Anti-inflammatory,flat,45,0.3,0.75,1,730,False,60.0
+SKU-039,Clopidogrel 75mg,Cardiovascular,flat_chronic,55,0.12,0.35,30,900,False,65.7
+SKU-040,Metoprolol 50mg,Cardiovascular,flat_chronic,65,0.05,0.15,30,900,False,66.7
+SKU-041,Doxycycline 100mg,Antibiotics,mild_winter,50,0.07,0.2,10,730,False,65.0
+SKU-042,Insulin Aspart 100IU/mL,Diabetes,flat_chronic,30,4.8,10.2,1,540,True,52.9

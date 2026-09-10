@@ -1,0 +1,52 @@
+material_id,material_name,material_category,supplier_id,unit_cost,avg_lead_time_days,on_time_rate,region
+MAT-API-001,Paracetamol API,API,SUP-01,0.095,55,0.8,Overseas
+MAT-API-002,Ibuprofen API,API,SUP-02,0.134,48,0.83,Overseas
+MAT-API-003,Diclofenac API,API,SUP-03,0.193,30,0.88,Regional
+MAT-API-004,Aspirin API,API,SUP-04,0.058,60,0.76,Overseas
+MAT-API-005,Naproxen API,API,SUP-01,0.203,55,0.8,Overseas
+MAT-API-006,Amoxicillin API,API,SUP-02,0.243,48,0.83,Overseas
+MAT-API-007,Azithromycin API,API,SUP-03,0.545,30,0.88,Regional
+MAT-API-008,Ceftriaxone API,API,SUP-04,2.983,60,0.76,Overseas
+MAT-API-009,Ciprofloxacin API,API,SUP-01,0.28,55,0.8,Overseas
+MAT-API-010,Atorvastatin API,API,SUP-02,0.196,48,0.83,Overseas
+MAT-API-011,Amlodipine API,API,SUP-03,0.115,30,0.88,Regional
+MAT-API-012,Losartan API,API,SUP-04,0.129,60,0.76,Overseas
+MAT-API-013,Warfarin API,API,SUP-01,0.187,55,0.8,Overseas
+MAT-API-014,Furosemide API,API,SUP-02,0.09,48,0.83,Overseas
+MAT-API-015,Metformin API,API,SUP-03,0.076,30,0.88,Regional
+MAT-API-016,Gliclazide API,API,SUP-04,0.22,60,0.76,Overseas
+MAT-API-017,Insulin API,API,SUP-01,16.675,55,0.8,Overseas
+MAT-API-018,Sitagliptin API,API,SUP-02,0.886,48,0.83,Overseas
+MAT-API-019,Salbutamol API,API,SUP-03,3.947,30,0.88,Regional
+MAT-API-020,Cetirizine API,API,SUP-04,0.063,60,0.76,Overseas
+MAT-API-021,Loratadine API,API,SUP-01,0.093,55,0.8,Overseas
+MAT-API-022,Montelukast API,API,SUP-02,0.522,48,0.83,Overseas
+MAT-API-023,Dextromethorphan API,API,SUP-03,2.346,30,0.88,Regional
+MAT-API-024,Omeprazole API,API,SUP-04,0.147,60,0.76,Overseas
+MAT-API-025,Famotidine API,API,SUP-01,0.156,55,0.8,Overseas
+MAT-API-026,Domperidone API,API,SUP-02,0.155,48,0.83,Overseas
+MAT-API-027,Loperamide API,API,SUP-03,0.084,30,0.88,Regional
+MAT-API-028,Oral API,API,SUP-04,0.288,60,0.76,Overseas
+MAT-API-029,Vitamin API,API,SUP-01,0.057,55,0.8,Overseas
+MAT-API-030,Vitamin API,API,SUP-02,0.074,48,0.83,Overseas
+MAT-API-031,Multivitamin API,API,SUP-03,0.15,30,0.88,Regional
+MAT-API-032,Iron API,API,SUP-04,0.111,60,0.76,Overseas
+MAT-API-033,Calcium API,API,SUP-01,0.087,55,0.8,Overseas
+MAT-API-034,Levothyroxine API,API,SUP-02,0.147,48,0.83,Overseas
+MAT-API-035,Levothyroxine API,API,SUP-03,0.165,30,0.88,Regional
+MAT-API-036,Prednisolone API,API,SUP-04,0.107,60,0.76,Overseas
+MAT-API-037,Dexamethasone API,API,SUP-01,0.142,55,0.8,Overseas
+MAT-API-038,Hydrocortisone API,API,SUP-02,1.129,48,0.83,Overseas
+MAT-API-039,Clopidogrel API,API,SUP-03,0.438,30,0.88,Regional
+MAT-API-040,Metoprolol API,API,SUP-04,0.164,60,0.76,Overseas
+MAT-API-041,Doxycycline API,API,SUP-01,0.248,55,0.8,Overseas
+MAT-API-042,Insulin API,API,SUP-02,17.503,48,0.83,Overseas
+MAT-EXC-01,Lactose Monohydrate,Excipient,SUP-05,0.0079,10,0.95,Domestic
+MAT-EXC-02,Microcrystalline Cellulose,Excipient,SUP-05,0.0197,10,0.95,Domestic
+MAT-EXC-03,Magnesium Stearate,Excipient,SUP-08,0.0131,18,0.9,Regional
+MAT-EXC-04,Maize Starch,Excipient,SUP-08,0.0145,18,0.9,Regional
+MAT-EXC-05,Talc Powder,Excipient,SUP-05,0.0151,10,0.95,Domestic
+MAT-PKG-01,PVC-Alu Blister Foil,Packaging,SUP-06,0.0596,8,0.96,Domestic
+MAT-PKG-02,HDPE Bottles (100ct),Packaging,SUP-06,0.0161,8,0.96,Domestic
+MAT-PKG-03,Glass Vials (2mL),Packaging,SUP-07,0.0153,14,0.92,Domestic
+MAT-PKG-04,Cartons & Patient Leaflets,Packaging,SUP-06,0.031,8,0.96,Domestic

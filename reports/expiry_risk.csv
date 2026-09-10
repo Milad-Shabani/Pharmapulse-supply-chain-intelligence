@@ -1,0 +1,43 @@
+product_id,current_network_stock,units_expiring_30d,units_expiring_60d,units_expiring_90d,forecasted_demand_30d,forecasted_demand_60d,forecasted_demand_90d,at_risk_units_30d,waste_risk_flag,generic_name,category,unit_cost,at_risk_value
+SKU-028,8722,8722,8722,8722,5064,9772,14490,3658,True,Oral Rehydration Salts,Gastrointestinal,0.1,365.8
+SKU-001,9141,9141,9141,9141,15434,21204,26460,0,False,Paracetamol 500mg,Analgesics,0.03,0.0
+SKU-003,3851,3851,3851,3851,7343,12228,17087,0,False,Diclofenac 50mg,Analgesics,0.05,0.0
+SKU-004,4791,0,0,0,9945,15128,20170,0,False,Aspirin 100mg,Analgesics,0.02,0.0
+SKU-005,3888,3888,3888,3888,6103,10885,15650,0,False,Naproxen 250mg,Analgesics,0.06,0.0
+SKU-006,3403,3403,3403,3403,13520,19106,24236,0,False,Amoxicillin 500mg,Antibiotics,0.08,0.0
+SKU-007,2896,2896,2896,2896,10291,15582,20562,0,False,Azithromycin 250mg,Antibiotics,0.15,0.0
+SKU-008,873,873,873,873,5675,10380,14988,0,False,Ceftriaxone 1g Injection,Antibiotics,0.9,0.0
+SKU-009,2852,2852,2852,2852,7337,12165,16920,0,False,Ciprofloxacin 500mg,Antibiotics,0.1,0.0
+SKU-002,5603,5603,5603,5603,12753,18257,23378,0,False,Ibuprofen 400mg,Analgesics,0.04,0.0
+SKU-010,5255,0,0,0,12576,18109,23325,0,False,Atorvastatin 20mg,Cardiovascular,0.06,0.0
+SKU-011,4920,0,0,0,12129,17637,22788,0,False,Amlodipine 5mg,Cardiovascular,0.04,0.0
+SKU-013,2218,2218,2218,2218,5786,10486,15104,0,False,Warfarin 5mg,Cardiovascular,0.07,0.0
+SKU-012,5508,0,0,0,11013,16376,21430,0,False,Losartan 50mg,Cardiovascular,0.05,0.0
+SKU-015,8377,0,0,0,13733,19396,24703,0,False,Metformin 500mg,Diabetes,0.03,0.0
+SKU-016,3354,0,0,0,7405,12246,17048,0,False,Gliclazide 80mg,Diabetes,0.06,0.0
+SKU-017,2478,2478,2478,2478,6005,10823,15610,0,False,Insulin Glargine 100IU/mL,Diabetes,4.5,0.0
+SKU-014,3704,0,0,0,7604,12451,17213,0,False,Furosemide 40mg,Cardiovascular,0.03,0.0
+SKU-019,2819,2819,2819,2819,8784,13725,18400,0,False,Salbutamol Inhaler 100mcg,Respiratory,1.2,0.0
+SKU-020,10151,0,0,0,6431,11299,16227,0,False,Cetirizine 10mg,Respiratory,0.02,0.0
+SKU-021,8037,0,0,0,6005,10831,15670,0,False,Loratadine 10mg,Respiratory,0.03,0.0
+SKU-022,2177,2177,2177,2177,5963,10700,15466,0,False,Montelukast 10mg,Respiratory,0.2,0.0
+SKU-023,1946,1946,1946,1946,9230,14233,18921,0,False,Dextromethorphan Syrup 100mL,Respiratory,0.6,0.0
+SKU-024,5524,0,0,0,10752,16038,21148,0,False,Omeprazole 20mg,Gastrointestinal,0.05,0.0
+SKU-025,2783,0,0,0,6642,11489,16267,0,False,Famotidine 40mg,Gastrointestinal,0.04,0.0
+SKU-018,1863,0,0,0,6705,11533,16325,0,False,Sitagliptin 100mg,Diabetes,0.35,0.0
+SKU-026,1949,1949,1949,1949,5730,10651,15564,0,False,Domperidone 10mg,Gastrointestinal,0.05,0.0
+SKU-027,979,0,0,0,5078,9755,14443,0,False,Loperamide 2mg,Gastrointestinal,0.03,0.0
+SKU-029,1970,0,0,0,15420,21115,26243,0,False,Vitamin D3 1000IU,Vitamins,0.02,0.0
+SKU-030,3268,0,0,0,13960,19638,24930,0,False,Vitamin C 500mg,Vitamins,0.02,0.0
+SKU-031,3590,0,0,0,14583,20087,25130,0,False,Multivitamin Tablets,Vitamins,0.04,0.0
+SKU-032,2874,0,0,0,7133,11987,16697,0,False,Iron + Folic Acid,Vitamins,0.03,0.0
+SKU-033,5368,0,0,0,8615,13681,18592,0,False,Calcium + Vitamin D,Vitamins,0.03,0.0
+SKU-034,4123,4123,4123,4123,8276,13192,18052,0,False,Levothyroxine 100mcg,Endocrine,0.05,0.0
+SKU-035,2667,2667,2667,2667,5699,10483,15248,0,False,Levothyroxine 50mcg,Endocrine,0.05,0.0
+SKU-036,1600,1600,1600,1600,5560,10304,14986,0,False,Prednisolone 5mg,Anti-inflammatory,0.03,0.0
+SKU-037,1278,1278,1278,1278,4988,9650,14340,0,False,Dexamethasone 0.5mg,Anti-inflammatory,0.04,0.0
+SKU-038,1229,1229,1229,1229,5272,10118,14934,0,False,Hydrocortisone Cream 1%,Anti-inflammatory,0.3,0.0
+SKU-039,2079,0,0,0,5746,10555,15356,0,False,Clopidogrel 75mg,Cardiovascular,0.12,0.0
+SKU-040,2395,0,0,0,6310,11041,15704,0,False,Metoprolol 50mg,Cardiovascular,0.05,0.0
+SKU-041,1551,1551,1551,1551,5332,10071,14767,0,False,Doxycycline 100mg,Antibiotics,0.07,0.0
+SKU-042,1374,1374,1374,1374,4849,9519,14194,0,False,Insulin Aspart 100IU/mL,Diabetes,4.8,0.0

@@ -1,0 +1,4 @@
+plant_id,plant_name,region,capacity_units_per_day
+PLANT-A,Aurora Plant Alpha,North,55000
+PLANT-B,Aurora Plant Beta,South,45000
+PLANT-C,Aurora Plant Gamma,East,35000
