@@ -13,3 +13,4 @@ venv/
 # NOT ignored - all generated artifacts here are only a few MB total,
 # so they're committed to keep the repo fully browsable on GitHub
 # without anyone needing to run the pipeline first.
+*.draft.md
