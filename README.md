@@ -12,12 +12,12 @@
 
 ## Dashboard Preview
 
-<img width="914" height="307" alt="Screenshot 2026-09-15 112316" src="https://github.com/user-attachments/assets/0ae5d8fb-9d60-48e4-850a-92c7f50f0a75" />
-<img width="920" height="359" alt="Screenshot 2026-09-15 112309" src="https://github.com/user-attachments/assets/3e519568-39b0-4886-b048-fc5688235b71" />
-<img width="908" height="355" alt="Screenshot 2026-09-15 112213" src="https://github.com/user-attachments/assets/26ffc82d-e3b8-4017-8f99-d8e6c0a02d50" />
-<img width="920" height="326" alt="Screenshot 2026-09-15 112226" src="https://github.com/user-attachments/assets/5e41338c-06aa-4649-9e91-65a0c21f29e8" />
-<img width="907" height="331" alt="Screenshot 2026-09-15 112237" src="https://github.com/user-attachments/assets/5525d46f-786f-4dae-8289-55c2e2dbf5a3" />
-<img width="920" height="386" alt="Screenshot 2026-09-15 112248" src="https://github.com/user-attachments/assets/7bf5036c-d67f-41f0-b8ac-548dcc982922" />
+![Dashboard Preview](docs/1.png)
+![Dashboard Preview](docs/2.png)
+![Dashboard Preview](docs/3.png)
+![Dashboard Preview](docs/4.png)
+![Dashboard Preview](docs/5.png)
+![Dashboard Preview](docs/6.png)
 
 ## The business problem
 
