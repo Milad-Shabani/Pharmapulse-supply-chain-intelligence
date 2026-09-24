@@ -107,8 +107,7 @@ pharmapulse-demand-planning/
 ├── scripts/
 │   ├── generate_sample_data.py     # produces data/raw/*
 │   ├── run_pipeline.py             # features -> forecast -> planning -> CCC -> reports
-│   ├── publish_to_github.sh        # one-shot publish (Linux/macOS)
-│   └── publish.bat                 # one-shot publish via GitHub CLI (Windows)
+│   └── publish_to_github.sh        # one-shot publish (Linux/macOS)
 ├── data/raw/                 # generated synthetic source data (committed)
 ├── data/processed/           # weekly features + forecast parquet (committed)
 ├── reports/                  # PharmaPulse_Planning_Report.xlsx + dashboard.html (committed)
@@ -138,7 +137,7 @@ Or with `make`: `make install data pipeline test`.
 
 Open `reports/pharmapulse_dashboard.html` directly in a browser (no server needed - Plotly is embedded inline), or `reports/PharmaPulse_Planning_Report.xlsx` in Excel.
 
-**Publishing to GitHub:** on Windows (with [GitHub CLI](https://cli.github.com/) installed and `gh auth login` already run), edit the `cd /d` path at the top of `scripts\publish.bat` and run it. On Linux/macOS, create an empty repo on github.com first, then run `./scripts/publish_to_github.sh <remote-url>`.
+**Publishing to GitHub:** on Linux/macOS, create an empty repo on github.com first, then run `./scripts/publish_to_github.sh <remote-url>`.
 
 ## Why a global model instead of 588 per-series models?
 
