@@ -10,7 +10,31 @@
 
 ---
 
+**Live dashboard:** [English](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/) · [فارسی](https://milad-shabani.github.io/Pharmapulse-supply-chain-intelligence/fa/)
+
+---
+
 ## Dashboard Preview
+
+Interactive, bilingual (English / Persian RTL), white modern design - open it live from the links above.
+
+![Distributor stock and sales overview](docs/dashboard-en-1.png)
+![Drug-level stock and sales table](docs/dashboard-en-2.png)
+![Drug x distributor matrix](docs/dashboard-en-3.png)
+![Forecast, ABC/XYZ, working capital and supply risk](docs/dashboard-en-4.png)
+
+<details>
+<summary>Persian (RTL) version</summary>
+
+![Persian overview](docs/dashboard-fa-1.png)
+![Persian drug table](docs/dashboard-fa-2.png)
+![Persian matrix](docs/dashboard-fa-3.png)
+![Persian planning sections](docs/dashboard-fa-4.png)
+
+</details>
+
+<details>
+<summary>Pipeline-generated report (reports/pharmapulse_dashboard.html)</summary>
 
 ![Dashboard Preview](docs/1.png)
 ![Dashboard Preview](docs/2.png)
@@ -18,6 +42,8 @@
 ![Dashboard Preview](docs/4.png)
 ![Dashboard Preview](docs/5.png)
 ![Dashboard Preview](docs/6.png)
+
+</details>
 
 ## The business problem
 
@@ -33,7 +59,7 @@ This project builds the forecasting and planning layer that addresses all three:
 | **Forecasting** | One global LightGBM model (not 588 per-series models) trained with **quantile regression** at P50 and P95 - the P95 quantile doubles as a distribution-free safety-stock buffer |
 | **Planning** | ABC (revenue) x XYZ (variability) segmentation; quantile-based reorder point / order-up-to recommendations; FIFO-approximate expiry/waste-risk flagging; supplier on-time performance; raw-material days-of-cover vs. lead time |
 | **Working capital** | A full **Cash Conversion Cycle** model (DIO + DSO − DPO) driven by a mechanistic receivables/payables ledger, reported as a 60-day trailing trend |
-| **Reporting** | A 9-sheet Excel workbook with native charts, and a standalone interactive HTML dashboard (red/orange theme) - both rendered from the same computed tables |
+| **Reporting** | A 9-sheet Excel workbook with native charts, a standalone interactive HTML report (`reports/`), and a bilingual GitHub Pages dashboard (`index.html`, `fa/index.html`) with per-distributor stock and daily sales |
 
 ## Results at a glance
 
@@ -47,6 +73,22 @@ This project builds the forecasting and planning layer that addresses all three:
 | Supplier on-time delivery (network) | 86.6% (76-87% for overseas API suppliers) |
 
 Full breakdown in [`reports/model_performance.csv`](reports/model_performance.csv), [`reports/working_capital.csv`](reports/working_capital.csv), [`reports/supplier_performance.csv`](reports/supplier_performance.csv), and [`docs/methodology.md`](docs/methodology.md).
+
+## Live dashboard (GitHub Pages)
+
+[`index.html`](index.html) (English) and [`fa/index.html`](fa/index.html) (Persian, RTL) are static pages - no server, no build step. They are linked to each other by a language switch in the header.
+
+| Block | What it shows |
+| ----- | ------------- |
+| **12 key metrics** | Stock on hand and value, units sold, revenue, gross profit, fill rate, lost sales, days of cover, stocked-out and low-cover items, cold-chain stock, top distributor |
+| **Distributors** | One card per distribution center (stock, sales of the selected day, cover, 14-day trend). Click a card to filter the whole page |
+| **Drug table** | All 42 drugs: stock, units sold, revenue, days of cover, 14-day trend and stock status; searchable, filterable, sortable |
+| **Drug x distributor matrix** | Stock, units sold, revenue or days of cover for every drug in every distributor |
+| **Planning sections** | Network KPIs, demand forecast (P50/P95), ABC x XYZ, cash conversion cycle, supplier and raw-material risk, expiry risk, model performance |
+
+The distributor blocks are computed from `data/raw/inventory_ledger.parquet` (closing stock, units sold and units demanded for the last 14 days of the dataset); "today" is the last day in the data and any of the 14 days can be selected. The planning sections come from the pipeline reports. All data is synthetic.
+
+Deployment is handled by [`.github/workflows/pages.yml`](.github/workflows/pages.yml): set **Settings -> Pages -> Source** to **GitHub Actions** once, and every push that touches `index.html` or `fa/` redeploys the site.
 
 ## Architecture
 
@@ -96,6 +138,8 @@ flowchart LR
 
 ```
 pharmapulse-demand-planning/
+├── index.html               # live dashboard (English)  -> GitHub Pages root
+├── fa/index.html            # live dashboard (Persian)  -> GitHub Pages /fa/
 ├── src/pharmapulse/
 │   ├── data_generation/     # products, network, demand, batches, inventory sim,
 │   │                        # raw materials/suppliers/BOM, procurement simulation
@@ -113,7 +157,10 @@ pharmapulse-demand-planning/
 ├── reports/                  # PharmaPulse_Planning_Report.xlsx + dashboard.html (committed)
 ├── docs/                     # data dictionary + methodology
 ├── tests/                    # 26 pytest unit tests
-└── .github/workflows/ci.yml  # regenerates everything + tests on every push
+├── docs/dashboard-*.png      # README preview images
+└── .github/workflows/
+    ├── ci.yml                # regenerates everything + tests on every push
+    └── pages.yml             # deploys index.html + fa/ to GitHub Pages
 ```
 
 ## Getting started
@@ -135,7 +182,7 @@ pytest tests/ -v
 
 Or with `make`: `make install data pipeline test`.
 
-Open `reports/pharmapulse_dashboard.html` directly in a browser (no server needed - Plotly is embedded inline), or `reports/PharmaPulse_Planning_Report.xlsx` in Excel.
+Open `index.html` (or `fa/index.html`) directly in a browser for the dashboard, `reports/pharmapulse_dashboard.html` for the pipeline-generated report (no server needed - Plotly is embedded inline), or `reports/PharmaPulse_Planning_Report.xlsx` in Excel.
 
 **Publishing to GitHub:** on Linux/macOS, create an empty repo on github.com first, then run `./scripts/publish_to_github.sh <remote-url>`.
 
